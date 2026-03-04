@@ -19,3 +19,7 @@ func AddFour(n int) int {
 func AddFive(n int) int {
 	return n + 5
 }
+
+func AddSix(n int) int {
+	return n + 6
+}
